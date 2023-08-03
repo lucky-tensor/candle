@@ -5,6 +5,7 @@ on:
 
 name: Continuous integration
 
+
 jobs:
   check:
     name: Check
