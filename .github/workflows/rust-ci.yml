@@ -1,7 +1,6 @@
-on: 
+on:
   push:
-    branches: 
-      - main
+    branches: [main, ci]
   pull_request:
 
 name: Continuous integration
